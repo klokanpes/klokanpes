@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Vojtěch Černý! 👋
 
-<!--
-**klokanpes/klokanpes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer with a passion for web development. Experienced in HTML, CSS, Python, C, Django, and Flask.
 
-Here are some ideas to get you started:
+## 🌟 Highlights
+### **CS50 final projects**: 
+- [Triage writer](https://github.com/klokanpes/triage_writer)
+- [Reviews](https://github.com/klokanpes/reviews)
+- [PEC database](https://github.com/klokanpes/pec_database)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning web development via CS50web
+
+📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com)
+
+
+
+
+
