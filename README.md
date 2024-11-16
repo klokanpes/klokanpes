@@ -8,7 +8,7 @@ Aspiring software developer with a passion for web development. Experienced in H
 - [Reviews](https://github.com/klokanpes/reviews)
 - [PEC database](https://github.com/klokanpes/pec_database)
 
-## 🌱 I’m currently learning web development via CS50web
+## 🌱 I’m currently learning web development via CS50W
 
 📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com)
 
