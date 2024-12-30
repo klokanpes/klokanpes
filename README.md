@@ -8,6 +8,9 @@ Aspiring software developer with a passion for web development. Experienced in H
 - [Reviews](https://github.com/klokanpes/reviews)
 - [PEC database](https://github.com/klokanpes/pec_database)
 
+### **Side projects**:
+- [The CAT API](https://github.com/klokanpes/the_cat_api)
+
 ## 🌱 I’m currently learning web development via CS50W
 
 📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com)
