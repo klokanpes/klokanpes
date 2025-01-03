@@ -1,6 +1,6 @@
 # Hi, I'm Vojtěch Černý! 👋
 
-Aspiring software developer with a passion for web development. Experienced in HTML, CSS, Python, C, Django, and Flask.
+Aspiring software developer with a passion for web development. With experience in HTML, CSS, Python, C, Django, and Flask.
 
 ## 🌟 Highlights
 ### **CS50 final projects**: 
