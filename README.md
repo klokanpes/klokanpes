@@ -4,6 +4,7 @@ Aspiring software developer with a passion for web development. With experience 
 
 ## 🌟 Highlights
 ### **CS50 final projects**: 
+- [Personal website](https://github.com/klokanpes/personal_website)
 - [Triage writer](https://github.com/klokanpes/triage_writer)
 - [Reviews](https://github.com/klokanpes/reviews)
 - [PEC database](https://github.com/klokanpes/pec_database)
@@ -13,7 +14,7 @@ Aspiring software developer with a passion for web development. With experience 
 
 ## 🌱 I’m currently learning web development via CS50W
 
-📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com)
+📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com) or [vojtechcerny.tech](https://vojtechcerny.tech) 
 
 
 
