@@ -2,6 +2,10 @@
 
 Aspiring software developer with a passion for web development and programming in C. With experience in HTML, CSS, Python, C, Django, Flask and JavaScript.
 
+## 🌱 I’m currently studying the core curriculum at [42Prague](https://www.42prague.com).
+
+📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com) or [vojtechcerny.tech](https://vojtechcerny.tech) 
+
 ## 🌟 Highlights
 ### **42Prague Core Curriculum projects**:
 - [libft](https://github.com/klokanpes/libft)
@@ -24,10 +28,6 @@ Aspiring software developer with a passion for web development and programming i
 
 ### **Side projects**:
 - [The CAT API](https://github.com/klokanpes/the_cat_api)
-
-## 🌱 I’m currently studying the core curriculum at [42Prague](https://www.42prague.com).
-
-📫 Reach me at: [cernyvojt@gmail.com](mailto:cernyvojt@gmail.com) or [vojtechcerny.tech](https://vojtechcerny.tech) 
 
 
 
