@@ -3,7 +3,7 @@
 Aspiring software developer with a passion for web development and programming in C. With experience in HTML, CSS, Python, C, Django, Flask and JavaScript.
 
 ## 🌟 Highlights
-### ***42Prague Core Curriculum projects**:
+### **42Prague Core Curriculum projects**:
 - [libft](https://github.com/klokanpes/libft)
 - [ft_printf](https://github.com/klokanpes/ft_printf)
 - [get_next_line](https://github.com/klokanpes/get_next_line)
