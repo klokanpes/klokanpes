@@ -18,7 +18,6 @@ Aspiring software developer with a passion for web development and programming i
 - [fdf](https://github.com/klokanpes/fdf)
 - [philo](https://github.com/klokanpes/philo)
 - [minishell](https://github.com/klokanpes/_minishell/tree/main)
-- [cub3D](https://github.com/klokanpes/cub3D/tree/main)
 
 ### **CS50 final projects**: 
 - [Personal website](https://github.com/klokanpes/personal_website)
