@@ -8,7 +8,7 @@ Aspiring software developer with a passion for web development and programming i
 
 ## 🌟 Highlights
 ### **42Prague Core Curriculum projects**:
-- [libft](https://github.com/klokanpes/libft)
+- [libft](https://github.com/klokanpes/libft) My first library written in C.
 - [ft_printf](https://github.com/klokanpes/ft_printf)
 - [get_next_line](https://github.com/klokanpes/get_next_line)
 - [push_swap](https://github.com/klokanpes/push_swap)
